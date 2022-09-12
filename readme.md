@@ -21,7 +21,7 @@
 # 5. how to execute your program.
   1 首先要安装pytrends
 ```
-    pip install pytrends
+  pip install pytrends
 ```
   2 命令行执行: 
 ```
